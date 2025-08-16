@@ -111,11 +111,11 @@ Available Commands:
         listTodos();
         break;
       case '5':
-        console.log('👋 Thank You for Using the Application');
+        console.log('Thank You for Using the Application');
         running = false;
         break;
       default:
-        console.log('⚠️ Masukan Input dengan Benar (1-5)');
+        console.log('Masukan Input dengan Benar (1-5)');
     }
   }
 }
